@@ -23,7 +23,7 @@ This project is a web scraper for extracting information about B2B conferences f
 
 3. **Download Chrome WebDriver**:
     - Ensure you have Google Chrome installed.
-    - Download the Chrome WebDriver that matches your version of Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+    - Download the Chrome WebDriver that matches your version of Chrome from [here](https://developer.chrome.com/docs/chromedriver/downloads).
     - Add the Chrome WebDriver to your system PATH.
 
 ## Usage
